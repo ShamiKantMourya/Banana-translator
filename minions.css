@@ -1,0 +1,43 @@
+.header h1{
+    background-color: #fef9c3 ;
+}
+.header h1 {
+ color: #facc15;
+}
+.header .color {
+    color: #1e40af;
+}
+.header .color1{
+    color: #000;
+}
+
+
+img{
+    height: 95px;
+    width: 400px;
+
+}
+.textarea{
+    height: 110px;
+    width: 40%;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    color: #1e40af;
+    background-color: #fef9c3;
+    font-weight: bold
+}
+#translate-btn{
+    margin: 5px;
+    background-color: #facc15;
+    color: #1e40af;
+    padding: 5px 8px;
+    border-radius: 10px;
+}
+#output{
+    height: 110px;
+    width: 40%;
+    border: 1px solid #000;
+    text-align: center;
+    background-color: #fef9c3;
+    color: #1e40af;
+}
