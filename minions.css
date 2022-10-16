@@ -1,3 +1,6 @@
+body{
+    text-align: center;
+}
 .header h1{
     background-color: #fef9c3 ;
 }
@@ -40,4 +43,5 @@ img{
     text-align: center;
     background-color: #fef9c3;
     color: #1e40af;
+    transform: translateX(65%);
 }
