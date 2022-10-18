@@ -27,7 +27,7 @@ img{
     margin-bottom: 50px;
     color: #1e40af;
     background-color: #fef9c3;
-    font-weight: bold
+    font-weight: bold;
 }
 #translate-btn{
     margin: 5px;
@@ -40,6 +40,7 @@ img{
     height: 110px;
     width: 40%;
     border: 1px solid #000;
+    font-weight: bold;
     text-align: center;
     background-color: #fef9c3;
     color: #1e40af;
